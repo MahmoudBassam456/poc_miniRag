@@ -1,3 +1,4 @@
 # poc_miniRag
-,,,bash
+...bash
 $ pip install -r req.txt
+...
